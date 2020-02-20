@@ -1,6 +1,7 @@
 
 个人博客：https://puluter.cn
-本文也可在：https://puluter.cn/20200220/smm2-multiplayer-statisics/  查看
+
+本文也可在：https://puluter.cn/20200220/smm2-multiplayer-statisics/  查看，阅读体验更佳
 
 # 起源
 看桀哥直播，突然迸发了一个想法，多人对战可不可以用OCR来记录数据呢？于是就开坑开始写下了代码。本文为自己记录一下开发过程，解释代码内容，记录开发心得。
